@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Rowhan Smith",
+      "designation": "CEO, Foreclosure",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": 2,
+      "name": "Shipra Kayak",
+      "designation": "Brand Designer",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": 3,
+      "name": "John Lepore",
+      "designation": "CEO, Foreclosure",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "image": "https://via.placeholder.com/100"
+    }
+  ]
+  
